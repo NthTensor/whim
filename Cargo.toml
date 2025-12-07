@@ -1,0 +1,10 @@
+[package]
+name = "whim"
+version = "1.0.0-beta.1"
+edition = "2024"
+license = "MIT"
+description = "An efficent reëntrant HTN planner"
+
+[dependencies]
+estr = "1.2.0"
+hashbrown = "0.16.1"
