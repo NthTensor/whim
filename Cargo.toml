@@ -6,5 +6,5 @@ license = "MIT"
 description = "An efficent reëntrant HTN planner"
 
 [dependencies]
-estr = "1.2.0"
+estr = "1.2"
 hashbrown = "0.16.1"
